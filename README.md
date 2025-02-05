@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">Future enhancement of your development team</h3>
+<h3 align="center">One man army equipped with a strong design sensibility </h3>
 
 - 🔭 I’m currently working with **Vue.js, Nuxt.js, Laravel**
 
