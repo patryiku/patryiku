@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">One man army equipped with a strong design sensibility </h3>
+<h3 align="center">Open minded developer specialized in crafting web solutions
+and delivering user-friendly experiences. Equipped with a strong
+design sensibility.</h3>
 
 - 🔭 I’m currently working with **Vue.js, Nuxt.js, Laravel**
-
-- 📫 How to reach me **patrykszczurowski564@gmail.com**
-
-- 🤼 Open minded developer specialized in crafting web solutions
-and delivering user-friendly experiences. Equipped with a strong
-design sensibility.
+- 🤼 Martial arts lover
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
