@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **patrykszczurowski564@gmail.com**
 
-- 🤼 Martial arts lover
+- 🤼 Open minded developer specialized in crafting web solutions
+and delivering user-friendly experiences. Equipped with a strong
+design sensibility.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
